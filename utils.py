@@ -6,4 +6,4 @@ def get_valid_number(prompt):
            return int(input(prompt))  # Convert input to integer
        except ValueError:
            # If conversion fails, user didn't enter a number
-           print("❌ Please enter a valid number.")
+           print("❌ Please enter a valid whole number.")
