@@ -24,11 +24,11 @@ class GuessTheNumberGame:
        self.attempts += 1  # Increase attempt count every time user guesses
        # Compare guess to the secret number
        if guess == self.secret_number:
-           return "correct"
+           return "You read my mind!"
        elif guess < self.secret_number:
-           return "too low"
+           return "too low, go higher"
        else:
-           return "too high"
+           return "too high, go lower"
    # Checks if player has used all attempts
    def is_game_over(self):
        return self.attempts >= self.max_attempts
