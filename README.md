@@ -6,11 +6,9 @@ A fun command-line game where the player tries to guess a randomly generated num
 - Replay functionality
 - Input validation
 - Clean modular design
-## 🛠️ Installation
+## 🛠️ Installation and running the game 👾 
 ```bash
 git clone https://github.com/YOUR_USERNAME/guess-the-number.git
 cd guess-the-number
 python main.py
-## 👾 How to run game
-```bash 
-python gui.py
+python gui.py 
