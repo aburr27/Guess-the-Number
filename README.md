@@ -1,5 +1,5 @@
 # 🎯 Guess the Number (Python CLI Game)
-A fun command-line game where the player tries to guess a randomly generated number within a limited number of attempts.
+A fun command-line or GUI game where the player tries to guess a randomly generated number within a limited number of attempts.
 ## 🚀 Features
 - Multiple difficulty levels
 - Limited attempts per game
