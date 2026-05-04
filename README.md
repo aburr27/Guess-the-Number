@@ -11,3 +11,6 @@ A fun command-line game where the player tries to guess a randomly generated num
 git clone https://github.com/YOUR_USERNAME/guess-the-number.git
 cd guess-the-number
 python main.py
+## 👾 How to run game
+```bash 
+python gui.py
